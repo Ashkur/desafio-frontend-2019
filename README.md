@@ -2,17 +2,6 @@
 Essa prova vai testar seus conhecimentos em HTML, CSS, JavaScript entre outros. Está preparado(a)?
 
 ## Instruções
-1) Go to Bitbucket (https://bitbucket.org); 
-2) Click on your profile picture; 
-3) Click on Bitbucket settings; 
-4) Click on OAuth; 
-5) Click on Add consumer; 
-6) Fill the fields: 
-    * Name: frontfy 
-    * Callback URL: http://localhost:3301/oauth-callback 
-    * Permissions: check repositories options write and admin 
-7) Click on Save to get your key and secret.
-
 1) Faça o download do arquivo (desafio-frontend.zip);
 2) Implemente o HTML/CSS do layout contido no arquivo desafio-frontend.zip;
 3) Você deverá:
