@@ -11,10 +11,10 @@ Essa prova vai testar seus conhecimentos em HTML, CSS, JavaScript entre outros. 
     * Criar eventos de hover;
     * Colocar máscaras e validação no formulário;
     * Consumir API para implementar as sessões do layout. Métodos disponíveis:
-      - Banners (http://static.owinteractive.com/bakery-api/banners.json)
-      - Produtos (http://static.owinteractive.com/bakery-api/products.json)
-      - Notícias (http://static.owinteractive.com/bakery-api/news.json)
-      - Parceiros (http://static.owinteractive.com/bakery-api/partners.json)
+      - Banners (https://api.myjson.com/bins/y3zct)
+      - Produtos (https://api.myjson.com/bins/dbycd)
+      - Notícias (https://api.myjson.com/bins/11qq59)
+      - Parceiros (https://api.myjson.com/bins/qfhnh)
     * IMPORTANTE! Desenvolver versão mobile da página;
 4) Crie um fork e submeta ao Github uma Pull Request.
 
